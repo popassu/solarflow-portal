@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1b2a5c"/><stop offset="1" stop-color="#2C2F64"/></linearGradient>
+<linearGradient id="box" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f4f7fb"/><stop offset="1" stop-color="#d9e2ee"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#sky)"/>
+<circle cx="980" cy="160" r="70" fill="#f6b52e"/>
+<g stroke="#f6b52e" stroke-width="10" stroke-linecap="round"><path d="M980 50v-20M980 290v-20M870 160h-20M1110 160h-20M902 82l-14-14M1072 252l-14-14M1058 82l14-14M888 252l14-14"/></g>
+<rect y="610" width="1200" height="190" fill="#151838"/>
+<g transform="translate(170 330)">
+<path d="M-10 0 L420 -90 L440 -60 L10 30z" fill="#0f2147"/>
+<g fill="#22407e" stroke="#7fa3d8" stroke-width="3"><path d="M0 -6 L100 -27 L110 -12 L10 9z"/><path d="M105 -28 L205 -49 L215 -34 L115 -13z"/><path d="M210 -50 L310 -71 L320 -56 L220 -35z"/><path d="M315 -72 L415 -93 L425 -78 L325 -57z"/></g>
+<rect x="0" y="30" width="840" height="280" rx="10" fill="url(#box)"/>
+<g stroke="#b8c6da" stroke-width="4">
+<path d="M70 30v280M140 30v280M210 30v280M280 30v280M350 30v280M420 30v280M490 30v280M560 30v280M630 30v280"/></g>
+<rect x="660" y="70" width="150" height="240" rx="6" fill="#ffffff" stroke="#9fb0c8" stroke-width="5"/>
+<rect x="780" y="170" width="14" height="50" rx="5" fill="#2C2F64"/>
+<g transform="translate(330 170)" stroke="#2f8fd6" stroke-width="12" stroke-linecap="round"><path d="M0 -70v140M-60 -35l120 70M-60 35l120 -70"/><path d="M-18 -55l18 15 18-15M-18 55l18-15 18 15"/></g>
+<rect x="0" y="300" width="840" height="12" fill="#DF3128"/>
+</g>
+<text x="80" y="110" fill="#ffffff" font-family="Poppins,Arial,sans-serif" font-size="46" font-weight="800">Solar Cold Storage &amp; AC</text>
+<text x="80" y="160" fill="#c9d3ea" font-family="Inter,Arial,sans-serif" font-size="26">Off-grid cooling, zero power bills</text>
+</svg>

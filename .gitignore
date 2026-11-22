@@ -1,0 +1,27 @@
+# Secrets: real passwords and keys live only on the server
+includes/config.local.php
+*.env
+.env*
+
+# Runtime data and logs
+data/*
+!data/.htaccess
+!data/index.php
+*.sqlite
+*.sqlite-journal
+*.log
+*.sql
+*.sql.gz
+*.bak
+
+# Staff and customer uploads
+uploads/*
+!uploads/.htaccess
+!uploads/index.php
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.zip
